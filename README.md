@@ -31,21 +31,6 @@ A **Streamlit** dashboard for exploring, forecasting, and comparing river & grou
 
 ---
 
-## 🏗️ Architecture
-
-```text
-river.csv / groundwater.xlsx            ⇣   Exploratory summaries
-                                       river.py / groundwater.py
-                                      ────────────────────────────► Trend plot / Forecast (sklearn)
-
-Multiple user‑uploaded datasets (1‑5)  ⇣   comparative.py
-                                      ────────────────────────────► Column pruning → Single‑trend → Multi‑dataset comparison
-
-main.py  ── Streamlit navigation (tabs)  ═══════════════════════►  UI rendered at http://localhost:8501
-```
-
----
-
 ## 🚀 Quick Start
 
 ```bash
