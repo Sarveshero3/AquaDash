@@ -11,7 +11,7 @@ import comparative as comp   # ← NEW: comparative tab
 # ──────────────────────────────────────────────────────────────
 # Page configuration
 st.set_page_config(
-    page_title="Water Analysis (River, Groundwater & Comparative)",
+    page_title="💧 AquaDash – Local‑First Water‑Quality Explorer",
     layout="wide",
 )
 
