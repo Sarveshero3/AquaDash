@@ -1,6 +1,6 @@
 # AquaDash
 
-# 💧 AquaDash – Local‑First Water‑Quality Explorer
+# 💧AquaDash – Local‑First Water‑Quality Explorer
 
 A **Streamlit** dashboard for exploring, forecasting, and comparing river & groundwater datasets. Everything runs on your machine – no external APIs – so sensitive environmental data stays private.
 
