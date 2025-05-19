@@ -59,7 +59,6 @@ Open the printed URL (usually [http://localhost:8501](http://localhost:8501)) �
 
 | Setting                     | Where                                          | Default      |
 | --------------------------- | ---------------------------------------------- | ------------ |
-| **Figure size**             | `river.py`, `groundwater.py`, `comparative.py` | `(4, 3)`     |
 | **Forecast models offered** | `helpers.py → MODELS`                          | DT / RF / LR |
 | **Missing‑value threshold** | Slider in **Comparative** tab (UI)             | `0.1 → 0.9`  |
 
